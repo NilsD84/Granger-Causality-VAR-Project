@@ -1,0 +1,1 @@
+Explored how a firm's and their competitor's pricing variables as well as advertising impacted sales using a time series data set. Employed granger causality and a vector autoregression model. Found that both variables granger caused sales, but VAR model shows that pricing is more influential.
