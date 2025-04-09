@@ -13,7 +13,7 @@ library(RColorBrewer)
 library(lmtest)
 
 #Importing Dataset  ----
-Ixmor.df <- read_csv("4766946_timeseries.csv")
+Ixmor.df <- read_csv("timeseries.csv")
 
 #Data overview ----
 str(Ixmor.df)
